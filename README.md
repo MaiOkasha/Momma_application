@@ -1,4 +1,4 @@
-# vp12_ui_application
+# flutter_ui_application
 
 A new Flutter project.
 
